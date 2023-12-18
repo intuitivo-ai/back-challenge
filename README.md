@@ -65,7 +65,7 @@ Como un desafío adicional, te animamos a contenerizar tu aplicación utilizando
    - Incluye instrucciones detalladas en tu `README.md` sobre cómo construir la imagen de Docker y desplegarla en ECS.
    - Proporciona guías de configuración y cualquier script necesario para facilitar el despliegue.
 
-### Criterios de Evaluación del Desafío de Bonificación
+### Criterios de Evaluación del Desafío extra
 
 - **Correcta Implementación de Docker:** La aplicación debe estar correctamente contenerizada y funcionar en un entorno de Docker.
 - **Despliegue Exitoso en Amazon ECS:** La aplicación debe estar operativa y accesible a través de ECS.
