@@ -87,3 +87,6 @@ Documentar el diseño de la base de datos y cualquier decisión importante de ar
                                               +----------------+
 ```
 
+## Ejemplo. Solo a modo de ilustración y guía. La aplicación en el ejemplo no está terminada.
+
+![gif](assets/demo_example.gif)
