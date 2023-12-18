@@ -34,9 +34,9 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 ### Criterios de Evaluación 📝
 
 * Funcionalidad: La aplicación debe cumplir con todos los requisitos mencionados.
-Diseño de la Base de Datos: Eficacia en el manejo de datos de usuarios e imágenes.
+* Diseño de la Base de Datos: Eficacia en el manejo de datos de usuarios e imágenes.
 * Usabilidad: Facilidad de uso de la interfaz de usuario.
-Calidad del Código: Claridad, mantenibilidad y uso de buenas prácticas de programación.
+* Calidad del Código: Claridad, mantenibilidad y uso de buenas prácticas de programación.
 * Seguridad: Implementación de medidas de seguridad para proteger datos sensibles.
 
 ### Entrega del Proyecto 📤
