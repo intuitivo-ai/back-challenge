@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Desarrollar una aplicación web para anotar imágenes, similar a una herramienta de etiquetado de imágenes. La aplicación debe permitir a los Data Operators (usuarios) iniciar sesión, seleccionar y anotar imágenes, y guardar estas anotaciones con sus metadatos en una base de datos. Las imágenes deben almacenarse en un servicio S3.
+Desarrollar una aplicación web para anotar imágenes, similar a una herramienta de etiquetado de imágenes. La aplicación debe permitir a los Data Operators (usuarios) iniciar sesión, seleccionar y anotar imágenes, y guardar estas anotaciones con sus metadatos en una base de datos.
 
 *Recuerda que esta aplicación busca funcionalidad, eficiencia y seguridad por encima de la estética.*
 
@@ -14,8 +14,8 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 * La aplicación debe manejar usuarios y contraseñas.
 * Los detalles de los usuarios deben almacenarse en una base de datos segura.
 3. Almacenamiento de Imágenes 🖼️
-* Las imágenes deben almacenarse en un servicio S3.
-* La aplicación debe permitir cargar y recuperar imágenes desde S3.
+* Las imágenes pueden almacenarse local o un servicio externo (opcional).
+* La aplicación debe permitir cargar y recuperar imágenes desde la fuente con rapidez.
 4. Galería de Imágenes y Herramienta de Anotación 🩻
 * Implementar una galería de imágenes donde los usuarios puedan seleccionar imágenes para anotar.
 * La herramienta de anotación debe incluir un selector tipo canvas para capturar coordenadas X e Y con un clic.
