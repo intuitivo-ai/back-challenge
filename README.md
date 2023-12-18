@@ -51,7 +51,7 @@ Implementación con Docker y Amazon ECS
 
 Como un desafío adicional, te animamos a contenerizar tu aplicación utilizando Docker y desplegarla en Amazon Elastic Container Service (ECS). Esta implementación no solo demostrará tus habilidades en la gestión de contenedores y orquestación, sino que también añadirá un nivel de profesionalismo y escalabilidad a tu proyecto.
 
-### Requisitos para el Desafío de Bonificación
+### Requisitos para el Desafío extra
 
 1. **Contenerización con Docker:**
    - Crea un `Dockerfile` para contenerizar tu aplicación.
