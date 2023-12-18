@@ -55,21 +55,16 @@ Como un desafío adicional, te animamos a contenerizar tu aplicación utilizando
    - Crea un `Dockerfile` para contenerizar tu aplicación.
    - Asegúrate de que la aplicación se ejecute correctamente en un entorno de contenedor local.
 
-2. **Despliegue en Amazon ECS:**
-   - Configura un clúster de ECS y define las tareas y servicios necesarios para tu aplicación.
-   - Implementa la aplicación en ECS, asegurándote de que sea accesible públicamente.
-
 3. **Documentación:**
-   - Incluye instrucciones detalladas en tu `README.md` sobre cómo construir la imagen de Docker y desplegarla en ECS.
+   - Incluye instrucciones detalladas en tu `README.md` sobre cómo construir la imagen de Docker.
    - Proporciona guías de configuración y cualquier script necesario para facilitar el despliegue.
 
 ### Criterios de Evaluación del Desafío extra
 
 - **Correcta Implementación de Docker:** La aplicación debe estar correctamente contenerizada y funcionar en un entorno de Docker.
-- **Despliegue Exitoso en Amazon ECS:** La aplicación debe estar operativa y accesible a través de ECS.
-- **Calidad de la Documentación:** Claridad y precisión en las instrucciones de despliegue y configuración.
+- **Calidad de la Documentación:** Claridad y precisión en las instrucciones y configuración.
 
-Este desafío extra es una oportunidad para demostrar habilidades avanzadas en desarrollo moderno y operaciones en la nube. ¡Esperamos ver tu solución!
+Este desafío extra es una oportunidad para demostrar habilidades avanzadas en desarrollo moderno. ¡Esperamos ver tu solución!
 
 ---
 
