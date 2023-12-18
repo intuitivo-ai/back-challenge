@@ -1,4 +1,4 @@
-## Herramienta de Anotación de Imágenes para Machine Learning 🖼️
+# Herramienta de Anotación de Imágenes para Machine Learning 🖼️
 
 ### Objetivo
 
@@ -45,6 +45,34 @@ Calidad del Código: Claridad, mantenibilidad y uso de buenas prácticas de prog
 El código fuente debe ser entregado en un repositorio diferente (compartir link)
 Incluir un README detallado con instrucciones para configurar y ejecutar la aplicación.
 Documentar el diseño de la base de datos y cualquier decisión importante de arquitectura.
+
+### Extras son bien recibidos 🎁
+
+Implementación con Docker y Amazon ECS
+
+Como un desafío adicional, te animamos a contenerizar tu aplicación utilizando Docker y desplegarla en Amazon Elastic Container Service (ECS). Esta implementación no solo demostrará tus habilidades en la gestión de contenedores y orquestación, sino que también añadirá un nivel de profesionalismo y escalabilidad a tu proyecto.
+
+### Requisitos para el Desafío de Bonificación
+
+1. **Contenerización con Docker:**
+   - Crea un `Dockerfile` para contenerizar tu aplicación.
+   - Asegúrate de que la aplicación se ejecute correctamente en un entorno de contenedor local.
+
+2. **Despliegue en Amazon ECS:**
+   - Configura un clúster de ECS y define las tareas y servicios necesarios para tu aplicación.
+   - Implementa la aplicación en ECS, asegurándote de que sea accesible públicamente.
+
+3. **Documentación:**
+   - Incluye instrucciones detalladas en tu `README.md` sobre cómo construir la imagen de Docker y desplegarla en ECS.
+   - Proporciona guías de configuración y cualquier script necesario para facilitar el despliegue.
+
+### Criterios de Evaluación del Desafío de Bonificación
+
+- **Correcta Implementación de Docker:** La aplicación debe estar correctamente contenerizada y funcionar en un entorno de Docker.
+- **Despliegue Exitoso en Amazon ECS:** La aplicación debe estar operativa y accesible a través de ECS.
+- **Calidad de la Documentación:** Claridad y precisión en las instrucciones de despliegue y configuración.
+
+Este desafío de bonificación es una oportunidad para demostrar habilidades avanzadas en desarrollo moderno y operaciones en la nube. ¡Esperamos ver tu solución innovadora!
 
 ### Propuesta Base de datos
 
