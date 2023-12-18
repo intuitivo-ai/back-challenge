@@ -33,7 +33,6 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 
 ### Criterios de Evaluación 📝
 
-
 * Funcionalidad: La aplicación debe cumplir con todos los requisitos mencionados.
 Diseño de la Base de Datos: Eficacia en el manejo de datos de usuarios e imágenes.
 * Usabilidad: Facilidad de uso de la interfaz de usuario.
@@ -72,11 +71,13 @@ Como un desafío adicional, te animamos a contenerizar tu aplicación utilizando
 - **Despliegue Exitoso en Amazon ECS:** La aplicación debe estar operativa y accesible a través de ECS.
 - **Calidad de la Documentación:** Claridad y precisión en las instrucciones de despliegue y configuración.
 
-Este desafío de bonificación es una oportunidad para demostrar habilidades avanzadas en desarrollo moderno y operaciones en la nube. ¡Esperamos ver tu solución innovadora!
+Este desafío extra es una oportunidad para demostrar habilidades avanzadas en desarrollo moderno y operaciones en la nube. ¡Esperamos ver tu solución!
+
+---
 
 ### Propuesta Base de datos
 
-## Estructura básica de la Base de Datos. Proponer e implementar mejoras.
+### Estructura básica de la Base de Datos. Proponer e implementar mejoras.
 
 ### Tabla `Usuarios`
 - `id_usuario`: INT, PRIMARY KEY, AUTO_INCREMENT
