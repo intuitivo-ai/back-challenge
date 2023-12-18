@@ -27,9 +27,7 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 6. Interfaz de Usuario 🖥️
 * La interfaz debe incluir botones para "Guardar" y "Rechazar" anotaciones.
 * Incluir una sección de instrucciones para guiar a los usuarios en el proceso de anotación.
-7. Funcionalidades Adicionales 📦
-* Implementar medidas de seguridad para proteger la información de los usuarios y las imágenes.
-* La aplicación debe ser responsiva y fácil de usar en diferentes dispositivos.
+
 
 ### Criterios de Evaluación 📝
 
