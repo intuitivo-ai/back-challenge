@@ -14,6 +14,7 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 * La aplicación debe manejar usuarios y contraseñas.
 * Los detalles de los usuarios deben almacenarse en una base de datos segura.
 3. Almacenamiento de Imágenes 🖼️
+  Puedes encontrar imagenes para test en este repositorio en /images
 * Las imágenes pueden almacenarse local o un servicio externo (opcional).
 * La aplicación debe permitir cargar y recuperar imágenes desde la fuente con rapidez.
 4. Galería de Imágenes y Herramienta de Anotación 🩻
