@@ -8,8 +8,8 @@ Desarrollar una aplicación web para anotar imágenes, similar a una herramienta
 
 ### Requisitos Técnicos 🔩
 1. Framework y Lenguaje 🧑🏻‍💻
-* Lenguaje de Programación: Python.
-* Framework Web: FastAPI, Django, o cualquier otro framework web de su elección.
+* Lenguaje de Programación: Python/JS.
+* Framework Web: NextJS.
 2. Autenticación de Usuarios 🔐
 * La aplicación debe manejar usuarios y contraseñas.
 * Los detalles de los usuarios deben almacenarse en una base de datos segura.
